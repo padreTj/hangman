@@ -1,0 +1,1 @@
+words = ["perro","gato","vaca","pato","aguila","Conejo","Capibara","Avestruz","Cebra","Cocodrilo","Elefante","Gallina","Ganso","Gorila","Jirafa","León","Lobo","Mono","Oso","Panda","Pájaro","Pato","Perro","Rana","Rinoceronte","Serpiente","Tigre","Tortuga","Vaca","Zorro"]
